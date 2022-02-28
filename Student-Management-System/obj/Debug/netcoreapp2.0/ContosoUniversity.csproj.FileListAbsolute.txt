@@ -1,0 +1,17 @@
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\appsettings.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\bower.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.AssemblyReference.cache
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+D:\My Folder\C#_Net\Student-Management-System\Student-Management-System\obj\Debug\netcoreapp2.0\ContosoUniversity.genruntimeconfig.cache
